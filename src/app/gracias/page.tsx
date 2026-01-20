@@ -170,7 +170,7 @@ export default function GraciasPage() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 1.2 }}
             >
-              Hemos recibido tu mensaje correctamente. Nuestro equipo lo revisará y te responderá a la mayor brevedad posible a través de <span className="font-medium text-primary">franco.sanchez@gaiax.mx</span>.
+              Hemos recibido tu mensaje correctamente. Nuestro equipo lo revisará y te responderá a la mayor brevedad posible a través de <span className="font-medium text-primary">dannag@gaiax.mx</span>.
             </motion.p>
           </motion.div>
           

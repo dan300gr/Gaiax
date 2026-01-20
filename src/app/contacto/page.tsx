@@ -97,7 +97,7 @@ export default function ContactoPage() {
                 </div>
                 <div className="flex items-center gap-3 bg-primary/10 px-4 py-3 rounded-lg">
                   <Mail className="h-5 w-5 text-primary flex-shrink-0" />
-                  <span className="text-primary font-medium">franco.sanchez@gaiax.mx</span>
+                  <span className="text-primary font-medium">dannag@gaiax.mx</span>
                 </div>
               </div>
 
